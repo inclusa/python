@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 02 Docstrings
-date: 2016-06-02 01:00:00
+date: 2016-07-02 01:00:00
 ---
 
 Inicialitzar objectes
@@ -29,6 +29,9 @@ Type "help", "copyright", "credits" or "license" for more information.
 ```
 
 **Objectiu**: Escriure documentació que resumisca el que fa cada objecte.
+
+Docstring
+: Cadena de documentació d'atribut. En aquest cas seria aquesta informació `Representa un punt en coordenades geomètriques bidimensionals`.
 
 El **docstring** ha d'estar col·locat després de la definició de funció.
 

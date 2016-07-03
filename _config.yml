@@ -25,3 +25,5 @@ version:             1.0.0
 # Gems
 gems: [jekyll-paginate]
 
+# Server Port
+port: 4001 # Canvia el port del servidor local al 4001
