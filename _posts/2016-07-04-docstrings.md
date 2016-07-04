@@ -6,7 +6,7 @@ date:  2016-07-04 01:00:00
 Docstring
 :Cadena de documentació d’atribut.
 
-Referència a altres arxius que parlen de [docstrings](/2016/07/02/docstrings.html)
+Referència a altres arxius que parlen de [docstrings](/python/2016/07/02/docstrings.html)
     
 Partim del següent codi que el podem guardar en un arxiu anomenat `triangle.py`:
 
