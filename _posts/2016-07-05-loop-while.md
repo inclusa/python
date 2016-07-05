@@ -1,0 +1,130 @@
+---
+layout: post
+title: 19 Loop while
+date:  2016-07-05 05:00:00
+---
+
+```
+>>> num = 10
+>>> while num > 100:
+...     num = num * 2
+...     print(num)
+... 
+20
+40
+80
+100
+```
+Finalment incloem exemples per tal que es veja com s'utilitza:
+
+```
+def cuenta_vocales(s):
+    '''(str) -> int
+    Devuelve el número de vocales que tiene s.
+    >>> cuenta_vocales ("videotutoriales.com")
+    9
+    >>> cuenta_vocales("MVP")
+    0'''   
+    num_vocales = 0
+    for caracter in s:
+        if caracter in "aeiouAEIOU":
+            num_vocales = num_vocales +1
+    return num_vocales
+ 
+def acumula_vocales(s):
+    '''(str) -> str
+    Devuelve las vocales que tiene s.
+    >>> acumula_vocales ("videotutoriales.com")
+    'ieouoiaeo'
+    >>> acumula_vocales("MVP")
+    ' '
+    '''   
+    vocales = ''
+    for caracter in s:
+        if caracter in "aeiouAEIOUáéíóúÁÉÍÓÚüÜ":
+            vocales = vocales + caracter
+    return vocales
+ 
+def vocal_para(s):
+    ''' (str) -> str
+    Imprime los caracteres de un string hasta que se encuentra una vocal
+    >>>vocal_para("saludos")
+    s
+    >>>vocal_para("Primero")
+    P
+    r
+    >>>vocal_para("MVP")
+    M
+    V
+    P
+    error'''
+    i = 0
+    while not (s[i] in "aeiouAEIOUáéíóúÁÉÍÓÚüÜ"):
+        print(s[i])
+        i = i + 1
+   
+def vocal_para_mejorado(s):
+    ''' (str) -> str
+    Imprime los caracteres de un string hasta que se encuentra una vocal o hasta que llega al último carácter del String
+    >>>vocal_para("saludos")
+    s
+    >>>vocal_para("Primero")
+    P
+    r
+    >>>vocal_para("MVP")
+    M
+    V
+    P
+    '''
+    i = 0
+    while i <len(s)   and not (s[i] in "aeiouAEIOUáéíóúÁÉÍÓÚüÜ"):
+        print(s[i])
+        i = i + 1
+ 
+def hasta_vocal(s):
+    ''' (str) -> str
+    Devuelve un substring de s desde index 0 hasta, pero sin incluirla,
+    la primera vocal en s.
+    >>>hasta_vocal( "cualquiera")
+    'c'
+    >>>hasta_vocal("primero")
+    'pr'
+    >>>hasta_vocal("ahora")
+    ''
+    '''
+    antes_vocal= ''
+    i = 0
+    while i <len(s)   and not (s[i] in "aeiouAEIOUáéíóúÁÉÍÓÚüÜ"):
+        antes_vocal = antes_vocal + s[i]
+        i = i + 1
+    return antes_vocal
+ 
+def obtener_respuesta(pregunta):
+     
+    ''' (str) -> str
+    Usa el prompt para pedir al usuario una respuesta "sí" o  "no"
+    y continúa preguntando hasta que el usuario le dé una respuesta
+    válida. Devuelve la respuesta.
+    '''
+    respuesta = input(pregunta)
+ 
+    while not (respuesta == 'sí' or respuesta == 'no' or respuesta == 'si'):
+        respuesta = input(pregunta)
+    return respuesta
+ 
+def test ( ):
+    inicio = input("Escribe Empezar para realizar el test. \n Para responder debes usar el índice (a,b, etc) \n que tenga la pregunta.")
+    while not (inicio == "Empezar"):
+        inicio = input("Escribe Empezar para realizar el test")
+    pregunta1 = input ("¿cuantas son dos más dos? \n a) tres \n b) cuatro")
+    while not(pregunta1 == "b"):
+         pregunta1 = input ("¿cuantas son dos más dos? \n a) tres \n b) cuatro")
+    pregunta2 = input ("¿Cuál es la capital de Argentina? \n a) Madrid \n b) Santiago \n c)Buenos Aires ")
+    while not(pregunta2 == "c"):
+        pregunta2 = input ("¿Cuál es la capital de Argentina? \n a) Madrid \n b) Santiago \n c)Buenos Aires ")
+    print("Enhorabuena, has completado el test correctamente.")
+         
+```
+
+Font: Videotutoriales [22](https://www.youtube.com/watch?v=iFLazsGXkSY&list=PLEtcGQaT56chpYflEjBWRodHJNJN8EKpO&index=23) i [23](https://www.youtube.com/watch?v=M8knznKs1ns&index=24&list=PLEtcGQaT56chpYflEjBWRodHJNJN8EKpO)
+
