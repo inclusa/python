@@ -17,6 +17,7 @@ title: Fonts
 ## Videos
 
 [Curso de Python 3.X](https://www.youtube.com/watch?v=qsHEAW6wqks)
+[PYCONF US 2013. A hands on introduction to Python for beginning programmers. Jesica Mckellar](https://www.youtube.com/watch?v=rkx5_MRAV3A)
 
 ## Webs
 
