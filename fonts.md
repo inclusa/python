@@ -6,17 +6,16 @@ title: Fonts
 
 ## Comunitats
 
-[Python](https://www.python.org/)
-
-[Python Argentina](http://www.python.org.ar/)
+1. [Python](https://www.python.org/)
+2. [Python Argentina](http://www.python.org.ar/)
 
 ## Tutorials
 
-[Introducción a la programación con Python 3. Marzal Varó, Andrés ; Gracia Luengo, Isabel ; García Sevilla, Pedro](http://repositori.uji.es/xmlui/bitstream/handle/10234/102653/s93.pdf?sequence=1)
-
-[Byte of byte. Una mica de Python](http://moiatgit.github.io/byte_of_python_120.cat/)
-
-[Python para informaticos](http://do1.dr-chuck.net/py4inf/ES-es/book.pdf)
+1. [Introducción a la programación con Python 3.](http://repositori.uji.es/xmlui/bitstream/handle/10234/102653/s93.pdf?sequence=1) Marzal Varó, Andrés ; Gracia Luengo, Isabel ; García Sevilla, Pedro.
+2. [Byte of byte. Una mica de Python](http://moiatgit.github.io/byte_of_python_120.cat/)
+3. [Python para informaticos](http://do1.dr-chuck.net/py4inf/ES-es/book.pdf) Charles Severance. Python 2.7.2.
+4. [Python Docs](https://www.python.org/doc/)
+5. [MIT Open Course Ware](http://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-00sc-introduction-to-computer-science-and-programming-spring-2011/references/)
 
 ## Entorns
 
@@ -24,11 +23,10 @@ title: Fonts
 
 ## Videos
 
-[Curso de Python 3.X](https://www.youtube.com/watch?v=qsHEAW6wqks)
-
-[PYCONF US 2013. A hands on introduction to Python for beginning programmers. Jesica Mckellar](https://www.youtube.com/watch?v=rkx5_MRAV3A)
-
-[Python Programming Tutorial. Learn Python programming. Python language](https://www.youtube.com/watch?v=BTzav965P7w)
+1. [Curso de Python 3.X](https://www.youtube.com/watch?v=qsHEAW6wqks). Jesús Conde.
+2. [PYCONF US 2013. A hands on introduction to Python for beginning programmers.](http://pyvideo.org/video/1850/a-hands-on-introduction-to-python-for-beginning-p) Jesica Mckellar.
+3. [Python Programming Tutorial. Learn Python programming. Python language](https://www.youtube.com/watch?v=BTzav965P7w)
+4. [PyCon US 2013](http://pyvideo.org/category/33/pycon-us-2013)
 
 ## Webs
 
@@ -36,8 +34,7 @@ title: Fonts
 
 ## Altres manuals d'altres temes
 
-[Informática Básica.  Amengual Argudo, Juan Carlos ; Tomás López, Vicente Ramón](http://repositori.uji.es/xmlui/bitstream/handle/10234/24304/s15.pdf?sequence=3)
-
-[Introducción a la programación con C.  Marzal Varó, Andrés ; Gracia Luengo, Isabel](http://repositori.uji.es/xmlui/bitstream/handle/10234/24306/s29.pdf?sequence=3)
+1. [Informática Básica.](http://repositori.uji.es/xmlui/bitstream/handle/10234/24304/s15.pdf?sequence=3) Amengual Argudo, Juan Carlos ; Tomás López, Vicente Ramón.
+2. [Introducción a la programación con C.](http://repositori.uji.es/xmlui/bitstream/handle/10234/24306/s29.pdf?sequence=3)  Marzal Varó, Andrés ; Gracia Luengo, Isabel.
 
 
