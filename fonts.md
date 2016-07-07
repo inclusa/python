@@ -8,6 +8,7 @@ title: Fonts
 
 1. [Python](https://www.python.org/)
 2. [Python Argentina](http://www.python.org.ar/)
+3. [PyCon](http://www.pycon.org/)
 
 ## Tutorials
 
@@ -27,6 +28,14 @@ title: Fonts
 2. [PYCONF US 2013. A hands on introduction to Python for beginning programmers.](http://pyvideo.org/video/1850/a-hands-on-introduction-to-python-for-beginning-p) Jesica Mckellar.
 3. [Python Programming Tutorial. Learn Python programming. Python language](https://www.youtube.com/watch?v=BTzav965P7w)
 4. [PyCon US 2013](http://pyvideo.org/category/33/pycon-us-2013)
+
+## Podcast
+
+1. [Python en español](http://podcast.jcea.es/python/)
+2. [Podcast.__init__](http://podcastinit.com/)
+3. [From Python Import Podcast](http://frompythonimportpodcast.com/)
+4. [Radio Free Python](http://radiofreepython.com/)
+5. [Wedevelopers](http://wedevelopers.com/2012/07/22/we-developers-007-python-django/)
 
 ## Webs
 
