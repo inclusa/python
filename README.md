@@ -2,10 +2,10 @@ Blog on presentem la història d'aprenentatge del llenguatge de programació Pyt
 
 # [https://inclusa.github.io/python/](https://inclusa.github.io/python/)
 
-:snake: Aprenent Python
+- [X] :snake: Aprenent Python
 
-:computer: Desenvolupem
+- [X] :computer: Desenvolupem
 
-:floppy_disk: Guardem
+- [X] :floppy_disk: Guardem
 
-:coffee: Reflexionem
+- [] :coffee: Reflexionem
