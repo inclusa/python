@@ -12,7 +12,7 @@ title: Fonts
 
 ## Tutorials
 
-1. [Introducción a la programación con Python 3.](http://repositori.uji.es/xmlui/bitstream/handle/10234/102653/s93.pdf?sequence=1) Marzal Varó, Andrés ; Gracia Luengo, Isabel ; García Sevilla, Pedro.
+1. [Introducción a la programación con Python 3.](http://repositori.uji.es/xmlui/bitstream/handle/10234/102653/s93.pdf?sequence=1) Marzal Varó, Andrés ; Gracia Luengo, Isabel ; García Sevilla, Pedro. [Al repositori](http://repositori.uji.es/xmlui/handle/10234/102653)
 2. [Byte of byte. Una mica de Python](http://moiatgit.github.io/byte_of_python_120.cat/)
 3. [Python para informaticos](http://do1.dr-chuck.net/py4inf/ES-es/book.pdf) Charles Severance. Python 2.7.2.
 4. [Python Docs](https://www.python.org/doc/)
