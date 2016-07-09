@@ -11,11 +11,7 @@ Inicialitzar objectes
 	
 El doble subrayat és una funció **especial preconstruirda**. El millor és **no utilitzar** mai noms que comencem per **doble subrayat**.
 
-```
-alfons@server:~$ python3
-Python 3.4.3 (default, Oct 14 2015, 20:28:29) 
-[GCC 4.8.4] on linux
-Type "help", "copyright", "credits" or "license" for more information.
+```python
 >>> class Punto:
 ...     def __init__(self, x, y):
 ...         self.mover(x, y)
@@ -35,7 +31,7 @@ Docstring
 
 El **docstring** ha d'estar col·locat després de la definició de funció.
 
-```
+```python
 	class Punto:
 		'Representa un punt en coordenades geomètriques bidimensionals'.
 

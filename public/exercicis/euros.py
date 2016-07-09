@@ -1,10 +1,3 @@
----
-layout: post
-title: 25 If
-date:  2016-07-08 05:00:00
----
-
-```python
 #!/usr/bin/python3.4
 # -*- coding: utf-8 -*-
 #__program = 'euros.py'
@@ -49,6 +42,3 @@ else:
     print('Bitllets de 5 €:   ', int(e/int(5)), '€')
     print('Bitllets de 2 €:   ', int(f/int(2)), '€')
     print('Bitllets de 1 €:   ', int(g/int(1)), '€')
-```
-
-Font: [Introducción a la programación con Python 3](http://repositori.uji.es/xmlui/bitstream/handle/10234/102653/s93.pdf?sequence=1) P. 101, exercici 67

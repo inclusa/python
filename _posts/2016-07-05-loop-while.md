@@ -4,7 +4,7 @@ title: 19 Loop while
 date:  2016-07-05 05:00:00
 ---
 
-```
+```python
 >>> num = 10
 >>> while num > 100:
 ...     num = num * 2
@@ -17,7 +17,7 @@ date:  2016-07-05 05:00:00
 ```
 Finalment incloem exemples per tal que es veja com s'utilitza:
 
-```
+```python
 def cuenta_vocales(s):
     '''(str) -> int
     Devuelve el número de vocales que tiene s.
