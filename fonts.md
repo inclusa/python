@@ -20,7 +20,7 @@ title: Fonts
 
 ## Entorns
 
-[Python Learn](http://www.pythonlearn.com/)
+1. [Python Learn](http://www.pythonlearn.com/)
 
 ## Videos
 
@@ -39,7 +39,7 @@ title: Fonts
 
 ## Webs
 
-[Pytonizame](http://pythoniza.me/)
+2. [Pytonizame](http://pythoniza.me/)
 
 ## Altres manuals d'altres temes
 
