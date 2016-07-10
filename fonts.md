@@ -22,6 +22,10 @@ title: Fonts
 
 1. [Python Learn](http://www.pythonlearn.com/)
 
+## Conferències
+
+1. [Conferences & Workshops](https://www.python.org/community/workshops/)
+
 ## Videos
 
 1. [Curso de Python 3.X](https://www.youtube.com/watch?v=qsHEAW6wqks). Jesús Conde.
