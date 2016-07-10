@@ -17,6 +17,11 @@ title: Fonts
 3. [Python para informaticos](http://do1.dr-chuck.net/py4inf/ES-es/book.pdf) Charles Severance. Python 2.7.2.
 4. [Python Docs](https://www.python.org/doc/)
 5. [MIT Open Course Ware](http://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-00sc-introduction-to-computer-science-and-programming-spring-2011/references/)
+6. [How to Think Like a Computer Scientist: Learning with Python 2nd Edition documentation](http://www.openbookproject.net/thinkcs/python/english2e/)
+7. [Python Programming: An Introduction to Computer Science](http://mcsp.wartburg.edu/zelle/python/) Conté codi per visualitzar i slides per seguir les lliçons.
+8. [Practical Programming. An Introduction to Computer Science Using Python 3](https://pragprog.com/book/gwpy2/practical-programming)
+9. [Think Python](http://www.greenteapress.com/thinkpython/thinkpython.html)
+
 
 ## Entorns
 
