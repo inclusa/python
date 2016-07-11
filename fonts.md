@@ -22,6 +22,9 @@ title: Fonts
 7. [Python Programming: An Introduction to Computer Science](http://mcsp.wartburg.edu/zelle/python/) Conté codi per visualitzar i slides per seguir les lliçons.
 8. [Practical Programming. An Introduction to Computer Science Using Python 3](https://pragprog.com/book/gwpy2/practical-programming)
 9. [Think Python](http://www.greenteapress.com/thinkpython/thinkpython.html)
+10. [Doma de serpientes para niños](https://code.google.com/archive/p/swfk-es/)
+11. [Immersion en Python 3](https://code.google.com/archive/p/inmersionenpython3/)
+12. [Automate the boring stuff with Python](https://automatetheboringstuff.com/#toc)
 
 
 ## Entorns
@@ -38,7 +41,7 @@ title: Fonts
 2. [PYCONF US 2013. A hands on introduction to Python for beginning programmers.](http://pyvideo.org/video/1850/a-hands-on-introduction-to-python-for-beginning-p) Jesica Mckellar.
 3. [Python Programming Tutorial. Learn Python programming. Python language](https://www.youtube.com/watch?v=BTzav965P7w)
 4. [PyCon US 2013](http://pyvideo.org/category/33/pycon-us-2013)
-
+5. [Python para científicos e ingenieros](https://www.youtube.com/playlist?list=PLGBbVX_WvN7bMwYe7wWV5TZt1a58jTggB)
 ## Podcast
 
 1. [Python en español](http://podcast.jcea.es/python/)
