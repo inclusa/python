@@ -9,6 +9,7 @@ title: Fonts
 1. [Python](https://www.python.org/)
 2. [Python Argentina](http://www.python.org.ar/)
 3. [PyCon](http://www.pycon.org/)
+4. [PyConEs 2015](http://2015.es.pycon.org/ca/schedule/) Vídeos molt interessants.
 
 ## Tutorials
 
