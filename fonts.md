@@ -42,6 +42,7 @@ title: Fonts
 3. [Python Programming Tutorial. Learn Python programming. Python language](https://www.youtube.com/watch?v=BTzav965P7w)
 4. [PyCon US 2013](http://pyvideo.org/category/33/pycon-us-2013)
 5. [Python para científicos e ingenieros](https://www.youtube.com/playlist?list=PLGBbVX_WvN7bMwYe7wWV5TZt1a58jTggB)
+
 ## Podcast
 
 1. [Python en español](http://podcast.jcea.es/python/)
@@ -49,10 +50,12 @@ title: Fonts
 3. [From Python Import Podcast](http://frompythonimportpodcast.com/)
 4. [Radio Free Python](http://radiofreepython.com/)
 5. [Wedevelopers](http://wedevelopers.com/2012/07/22/we-developers-007-python-django/)
+6. [Descubre Python en 30 minutos](http://cacheme.org/descubre-python-en-30-min/)]
 
 ## Webs
 
-2. [Pytonizame](http://pythoniza.me/)
+1. [Pytonizame](http://pythoniza.me/)
+2. [Pybonacci](http://pybonacci.org/)
 
 ## Altres manuals d'altres temes
 
