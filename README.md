@@ -8,4 +8,4 @@ Blog on presentem la història d'aprenentatge del llenguatge de programació Pyt
 
 - [X] :floppy_disk: Guardem
 
-- [ ] :coffee: Reflexionem
+- [X] :coffee: Reflexionem
