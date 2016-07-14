@@ -37,7 +37,7 @@ title: Fonts
 
 ## Videos
 
-1. [Curso de Python 3.X](https://www.youtube.com/watch?v=qsHEAW6wqks). Jesús Conde.
+1. [Curso de Python 3.X](https://www.youtube.com/playlist?list=PLEtcGQaT56chpYflEjBWRodHJNJN8EKpO) Jesús Conde.
 2. [PYCONF US 2013. A hands on introduction to Python for beginning programmers.](http://pyvideo.org/video/1850/a-hands-on-introduction-to-python-for-beginning-p) Jesica Mckellar.
 3. [Python Programming Tutorial. Learn Python programming. Python language](https://www.youtube.com/watch?v=BTzav965P7w)
 4. [PyCon US 2013](http://pyvideo.org/category/33/pycon-us-2013)
