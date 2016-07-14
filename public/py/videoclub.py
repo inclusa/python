@@ -7,7 +7,12 @@
 # Programari per la gestio de videoclubs
 # ============================================================
 
-from fecha import Fecha, lee_fecha
+# from fecha import Fecha, lee_fecha
+import time
+from datetime import date
+
+# Variable de temps
+today = date.today()
 
 #-------------------------------------------------------------
 # Socio
@@ -16,7 +21,7 @@ from fecha import Fecha, lee_fecha
 #-------------------------------------------------------------
 class Socio:
     def __init__(self, dni, nombre, telefono, domicilio):
-        self.deni = dni
+        self.dni = dni
         self.nombre = nombre
         self.telefono = telefono
         self.domicilio = domicilio
@@ -129,14 +134,14 @@ class Videoclub:
         # al socio.
         # Requisito: debe existir un socio con el DNI suministrado.
         for pelicula in self.peliculas:
-            if pelicula.tituol == titulo and pelicula.alquilada == dni:
+            if pelicula.titol == titulo and pelicula.alquilada == dni:
                 pelicula.alquilada = None
                 dias_retraso = pelicula.fecha_alquiler.dias_transcurridos(hoy)
                 return
         return -1
 
     def listado_por_genero(self, genero):
-        # Muestra un listado de las peliculs cuyo genero es el indicado.
+        # Muestra un listado de las peliculas cuyo genero es el indicado.
         # Cada titulo aparece solo una vez. Al lado del titulo aparece
         # una indicacion sobre si hay o no hay ejemplares disponibles
         # para alquilar.
@@ -175,7 +180,7 @@ def menu():
 
     opcion = int(input('Escoge opcion: '))
     while opcion < 0 or opcion > 8:
-        opcion = input(input('Escoge opcion (entre 0 y 8): '))
+        opcion = input(input('Escoge opcion (entre 0 y 9): '))
     return opcion
 
 def nuevo_socio():
@@ -200,7 +205,7 @@ def nueva_pelicula():
 #-------------------------------------------------------------
 
 # Fijar fecha actual
-hoy = lee_fecha()
+today = date.today()
 
 videoclub = Videoclub()
 
@@ -209,7 +214,8 @@ while opcion != 8:
 
     if opcion == 0:
         print('Cambiar fecha actual')
-        hoy = lee_fecha()
+        hoy = date.today()
+        print('Hoy es:', hoy)
 
     elif opcion == 1:
         print('Alta de socio')
@@ -221,10 +227,10 @@ while opcion != 8:
 
     elif opcion == 2:
             print('Baja de socio')
-            dni = input('DNU: ')
+            dni = input('DNI: ')
             if videoclub.contiene_socio(dni):
                 videoclub.baja_socio( dni )
-                print('Socio con DNU', dni, 'dado de baja')
+                print('Socio con DNI', dni, 'dado de baja')
             else:
                 print('No existe ningun socio con DNI', dni)
 
@@ -261,10 +267,10 @@ while opcion != 8:
             if not hay_socio:
                 print('No hay socio con DNI', dni)
 
-    elif option == 6:
+    elif opcion == 6:
         print('Devolver pelicula')
         titulo = input('Titulo de la pelicula: ')
-        dni = input('DNU del socio: ')
+        dni = input('DNI del socio: ')
         hay_pelicula = videoclub.contiene_pelicula(titulo)
         hay_socio = videoclub.contiene_socio(dni)
         if hay_pelicula and hay_socio:
