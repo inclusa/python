@@ -25,7 +25,7 @@ title: Fonts
 10. [Doma de serpientes para niños](https://code.google.com/archive/p/swfk-es/)
 11. [Immersion en Python 3](https://code.google.com/archive/p/inmersionenpython3/)
 12. [Automate the boring stuff with Python](https://automatetheboringstuff.com/#toc)
-
+13. [Materiales del curso de Programación en Python - Nivel básico](http://entrenamiento-python-basico.readthedocs.io/es/latest/index.html)
 
 ## Entorns
 
@@ -43,6 +43,7 @@ title: Fonts
 3. [Python Programming Tutorial. Learn Python programming. Python language](https://www.youtube.com/watch?v=BTzav965P7w)
 4. [PyCon US 2013](http://pyvideo.org/category/33/pycon-us-2013)
 5. [Python para científicos e ingenieros](https://www.youtube.com/playlist?list=PLGBbVX_WvN7bMwYe7wWV5TZt1a58jTggB)
+6. [Codigo Facilito. Curso de Python](https://www.youtube.com/playlist?list=PLE549A038CF82905F)
 
 ## Podcast
 
