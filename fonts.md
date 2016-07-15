@@ -30,6 +30,7 @@ title: Fonts
 ## Entorns
 
 1. [Python Learn](http://www.pythonlearn.com/)
+2. [Python ya](http://pythonya.appspot.com/)
 
 ## Conferències
 

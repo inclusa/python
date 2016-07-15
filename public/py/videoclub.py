@@ -170,7 +170,7 @@ def menu():
     print('*** VIDEOCLUB ***')
     print('0) Fijar fecha actual')
     print('1) Dar de alta nuevo socio')
-    print('2) Dar de baja nueva pelicula')
+    print('2) Dar de baja socio')
     print('3) Dar de alta una nueva pelicula')
     print('4) Dar de baja una pelicula')
     print('5) Alquilar pelicula')
