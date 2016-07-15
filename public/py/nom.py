@@ -1,18 +1,3 @@
----
-layout: post
-title: 32 Problema 01
-date:  2016-07-15 00:00:00
----
-
-**Objectiu**: Definir diferents tipus de variables
-
-- Numèrica
-- Flotant
-- Complexe
-- Cadena de caracters
-- Booleà
-
-```python
 # !/usr/bin/python3.4
 # -*- coding: utf-8 -*-
 # Programa = 'nom.py'
@@ -43,23 +28,3 @@ print("Alçada:", alçada)
 print('Complexe', complexe)
 print('Trobat:', trobat)
 
-```
-
-Es visualitza:
-
-```python
-Nom: Miquel
-Carrer: C/ Font, 1
-DNI: 20123123
-Edat: 21
-Telèfon: 961231212
-Alçada: 1.92
-Complexe (5+3j)
-Trobat: True
-```
-
-
-
-### Fonts
-- [Python ya: Definición de variables](http://pythonya.appspot.com/detalleconcepto?deta=Definici%C3%B3n%20de%20variables)
-- [COVANTEC. Tipos de datos básicos y variables en Python](http://entrenamiento-python-basico.readthedocs.io/es/latest/leccion3/)
