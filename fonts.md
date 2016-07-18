@@ -26,6 +26,7 @@ title: Fonts
 11. [Immersion en Python 3](https://code.google.com/archive/p/inmersionenpython3/)
 12. [Automate the boring stuff with Python](https://automatetheboringstuff.com/#toc)
 13. [Materiales del curso de Programación en Python - Nivel básico](http://entrenamiento-python-basico.readthedocs.io/es/latest/index.html)
+14. [Python para todos. Raul González Duque](https://launchpadlibrarian.net/18980633/Python%20para%20todos.pdf)
 
 ## Entorns
 
