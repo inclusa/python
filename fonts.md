@@ -27,11 +27,18 @@ title: Fonts
 12. [Automate the boring stuff with Python](https://automatetheboringstuff.com/#toc)
 13. [Materiales del curso de Programación en Python - Nivel básico](http://entrenamiento-python-basico.readthedocs.io/es/latest/index.html)
 14. [Python para todos. Raul González Duque](https://launchpadlibrarian.net/18980633/Python%20para%20todos.pdf)
+15. [Tutorials Poing Python](http://www.tutorialspoint.com/python/python_tutorial.pdf)
+16. [SymPy](http://docs.sympy.org/latest/index.html)
+17. [Python para principiantes. Eugenia Bahit](http://www.iaa.es/python/curso-python-para-principiantes.pdf)
 
 ## Entorns
 
 1. [Python Learn](http://www.pythonlearn.com/)
 2. [Python ya](http://pythonya.appspot.com/)
+3. [Python desde cero](http://codehero.co/series/python-desde-cero.html)
+4. [LearnPython](http://www.learnpython.org/es/)
+5. [Tutorial Python](http://www.tutorialpython.com/)
+6. [Bazaar Pyhton para principiantes. Eugenia Bahit](https://code.launchpad.net/~eugeniabahit/python-mdw/trunk)
 
 ## Conferències
 
