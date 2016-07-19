@@ -1,11 +1,5 @@
-#__program = 'editor.py'
-#__goal__ = 'Personalitzar editor a partir del codi original d'Eugenia Bahit'''
-#__version__ = '0.1'
-#__license__ = '$MIT'
-#__author__ = 'Alfons Rovira a partir del codi d'Eugenia Bahit''
-#__date__ = '2016/07/19'
 # -*- coding: utf-8 *-*
-"""Editor de NACs"""
+"""Editor de carta comercial con pre-formato"""
 import datetime
 
 import wx
@@ -21,15 +15,15 @@ class Editor(wx.Frame):
                                      value=TEMPLATE)
         self.CreateStatusBar()  # Crea una barra de estado
 
-        # Inicializa un menu
+        # Inicializa un menú
         filemenu = wx.Menu()
 
-        # Crea items del menu
+        # Crea items del menú
         menu_save = filemenu.Append(wx.ID_SAVE, MENU_GUARDAR, STATUS_GUARDAR)
         menu_about = filemenu.Append(wx.ID_ABOUT, MENU_ABOUT, STATUS_ABOUT)
         menu_exit = filemenu.Append(wx.ID_EXIT, MENU_SALIR, STATUS_SALIR)
 
-        # Crea la barra de menu
+        # Crea la barra de menú
         menubar = wx.MenuBar()
         menubar.Append(filemenu, MENU_TITLE)  # Titulo del menu
         self.SetMenuBar(menubar)  # Agrega la barra de menu al frame
@@ -55,17 +49,17 @@ class Editor(wx.Frame):
         self.confirmar(filename)
 
     def confirmar(self, file):
-        """Mostrar mensaje de confirmacion al guardar una carta"""
+        """Mostrar mensaje de confirmación al guardar una carta"""
         confirmar = CONFIRMAR + file
         dialog = wx.MessageDialog(self, confirmar, CONFIRM_TITLE, wx.OK)
         dialog.ShowModal()
         dialog.Destroy()
 
     def on_about(self, event):
-        """Mostrar un dialogo acerca de"""
+        """Mostrar un diálogo acerca de"""
         dialog = wx.MessageDialog(self, ABOUT_CONTENT, ABOUT_TITLE, wx.OK)
-        dialog.ShowModal()  # mostrar dialogo
-        dialog.Destroy()  # finalizar dialogo
+        dialog.ShowModal()  # mostrar diálogo
+        dialog.Destroy()  # finalizar diálogo
 
     def on_exit(self, event):
         """Salir del programa"""

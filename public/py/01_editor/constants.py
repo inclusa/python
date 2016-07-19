@@ -1,18 +1,11 @@
-#__program = 'constants.py'
-#__goal__ = 'Personalitzar editor a partir del codi original d'Eugenia Bahit'''
-#__version__ = '0.1'
-#__license__ = '$MIT'
-#__author__ = 'Alfons Rovira a partir del codi d'Eugenia Bahit''
-#__date__ = '2016/07/19'
-
 # -*- coding: utf-8 *-*
 APP_TITLE = "Creador de Cartas Comerciales"
-CONFIRM_TITLE = "Archivo guardado con exito!"
+CONFIRM_TITLE = "Archivo guardado con éxito!"
 CONFIRMAR = "El archivo se ha guardado exitosamente en cartas/"
 MENU_GUARDAR = "&Guardar"
 STATUS_GUARDAR = "Guarda el documento como nueva carta"
 MENU_ABOUT = "&Acerca de"
-STATUS_ABOUT = "Informacion sobre el programa"
+STATUS_ABOUT = "Información sobre el programa"
 MENU_SALIR = "&Salir"
 STATUS_SALIR = "Finaliza el programa"
 MENU_TITLE = "&Documento"

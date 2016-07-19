@@ -1,0 +1,23 @@
+{
+  "mainFile": "prueba.py", 
+  "venv": "", 
+  "name": "Guia Python - wxPython", 
+  "license": "GNU Lesser General Public License", 
+  "url": "", 
+  "pythonPath": "python", 
+  "programParams": "", 
+  "supported-extensions": [
+    ".py", 
+    ".html", 
+    ".jpg", 
+    ".png", 
+    ".ui", 
+    ".css", 
+    ".json", 
+    ".ini", 
+    ".txt", 
+    ""
+  ], 
+  "project-type": "", 
+  "description": ""
+}
