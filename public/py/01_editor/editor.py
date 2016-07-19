@@ -21,15 +21,15 @@ class Editor(wx.Frame):
                                      value=TEMPLATE)
         self.CreateStatusBar()  # Crea una barra de estado
 
-        # Inicializa un menú
+        # Inicializa un menu
         filemenu = wx.Menu()
 
-        # Crea items del menú
+        # Crea items del menu
         menu_save = filemenu.Append(wx.ID_SAVE, MENU_GUARDAR, STATUS_GUARDAR)
         menu_about = filemenu.Append(wx.ID_ABOUT, MENU_ABOUT, STATUS_ABOUT)
         menu_exit = filemenu.Append(wx.ID_EXIT, MENU_SALIR, STATUS_SALIR)
 
-        # Crea la barra de menú
+        # Crea la barra de menu
         menubar = wx.MenuBar()
         menubar.Append(filemenu, MENU_TITLE)  # Titulo del menu
         self.SetMenuBar(menubar)  # Agrega la barra de menu al frame
@@ -55,17 +55,17 @@ class Editor(wx.Frame):
         self.confirmar(filename)
 
     def confirmar(self, file):
-        """Mostrar mensaje de confirmación al guardar una carta"""
+        """Mostrar mensaje de confirmacion al guardar una carta"""
         confirmar = CONFIRMAR + file
         dialog = wx.MessageDialog(self, confirmar, CONFIRM_TITLE, wx.OK)
         dialog.ShowModal()
         dialog.Destroy()
 
     def on_about(self, event):
-        """Mostrar un diálogo acerca de"""
+        """Mostrar un dialogo acerca de"""
         dialog = wx.MessageDialog(self, ABOUT_CONTENT, ABOUT_TITLE, wx.OK)
-        dialog.ShowModal()  # mostrar diálogo
-        dialog.Destroy()  # finalizar diálogo
+        dialog.ShowModal()  # mostrar dialogo
+        dialog.Destroy()  # finalizar dialogo
 
     def on_exit(self, event):
         """Salir del programa"""
