@@ -30,6 +30,8 @@ title: Fonts
 15. [Tutorials Poing Python](http://www.tutorialspoint.com/python/python_tutorial.pdf)
 16. [SymPy](http://docs.sympy.org/latest/index.html)
 17. [Python para principiantes. Eugenia Bahit](http://www.iaa.es/python/curso-python-para-principiantes.pdf)
+18. [Immersión en Python 3. Escrit per Mike Pilgrim, traduït per José Manuel González Aguilera](http://argentinaenpython.com.ar/quiero-aprender-python/inmersion-en-python-3.0.11.pdf)
+19. [Aprenda a pensar como un programador con Python](http://argentinaenpython.com.ar/quiero-aprender-python/aprenda-a-pensar-como-un-programador-con-python.pdf)
 
 ## Entorns
 
