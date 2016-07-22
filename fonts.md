@@ -14,24 +14,25 @@ title: Fonts
 ## Tutorials
 
 1. [Introducción a la programación con Python 3.](http://repositori.uji.es/xmlui/bitstream/handle/10234/102653/s93.pdf?sequence=1) Marzal Varó, Andrés ; Gracia Luengo, Isabel ; García Sevilla, Pedro. [Al repositori](http://repositori.uji.es/xmlui/handle/10234/102653)
-2. [Byte of byte. Una mica de Python](http://moiatgit.github.io/byte_of_python_120.cat/)
-3. [Python para informaticos](http://do1.dr-chuck.net/py4inf/ES-es/book.pdf) Charles Severance. Python 2.7.2.
-4. [Python Docs](https://www.python.org/doc/)
-5. [MIT Open Course Ware](http://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-00sc-introduction-to-computer-science-and-programming-spring-2011/references/)
-6. [How to Think Like a Computer Scientist: Learning with Python 2nd Edition documentation](http://www.openbookproject.net/thinkcs/python/english2e/)
-7. [Python Programming: An Introduction to Computer Science](http://mcsp.wartburg.edu/zelle/python/) Conté codi per visualitzar i slides per seguir les lliçons.
-8. [Practical Programming. An Introduction to Computer Science Using Python 3](https://pragprog.com/book/gwpy2/practical-programming)
-9. [Think Python](http://www.greenteapress.com/thinkpython/thinkpython.html)
-10. [Doma de serpientes para niños](https://code.google.com/archive/p/swfk-es/)
-11. [Immersion en Python 3](https://code.google.com/archive/p/inmersionenpython3/)
-12. [Automate the boring stuff with Python](https://automatetheboringstuff.com/#toc)
-13. [Materiales del curso de Programación en Python - Nivel básico](http://entrenamiento-python-basico.readthedocs.io/es/latest/index.html)
-14. [Python para todos. Raul González Duque](https://launchpadlibrarian.net/18980633/Python%20para%20todos.pdf)
-15. [Tutorials Poing Python](http://www.tutorialspoint.com/python/python_tutorial.pdf)
-16. [SymPy](http://docs.sympy.org/latest/index.html)
-17. [Python para principiantes. Eugenia Bahit](http://www.iaa.es/python/curso-python-para-principiantes.pdf)
-18. [Immersión en Python 3. Escrit per Mike Pilgrim, traduït per José Manuel González Aguilera](http://argentinaenpython.com.ar/quiero-aprender-python/inmersion-en-python-3.0.11.pdf)
-19. [Aprenda a pensar como un programador con Python](http://argentinaenpython.com.ar/quiero-aprender-python/aprenda-a-pensar-como-un-programador-con-python.pdf)
+2. [A Byte of Python](http://python.swaroopch.com/) Swarroop C H
+3. [Byte of byte. Una mica de Python](http://moiatgit.github.io/byte_of_python_120.cat/)
+4. [Python para informaticos](http://do1.dr-chuck.net/py4inf/ES-es/book.pdf) Charles Severance. Python 2.7.2.
+5. [Python Docs](https://www.python.org/doc/)
+6. [MIT Open Course Ware](http://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-00sc-introduction-to-computer-science-and-programming-spring-2011/references/)
+7. [How to Think Like a Computer Scientist: Learning with Python 2nd Edition documentation](http://www.openbookproject.net/thinkcs/python/english2e/)
+8. [Python Programming: An Introduction to Computer Science](http://mcsp.wartburg.edu/zelle/python/) Conté codi per visualitzar i slides per seguir les lliçons.
+9. [Practical Programming. An Introduction to Computer Science Using Python 3](https://pragprog.com/book/gwpy2/practical-programming)
+10. [Think Python](http://www.greenteapress.com/thinkpython/thinkpython.html)
+11. [Doma de serpientes para niños](https://code.google.com/archive/p/swfk-es/)
+12. [Immersion en Python 3](https://code.google.com/archive/p/inmersionenpython3/)
+13. [Automate the boring stuff with Python](https://automatetheboringstuff.com/#toc)
+14. [Materiales del curso de Programación en Python - Nivel básico](http://entrenamiento-python-basico.readthedocs.io/es/latest/index.html)
+15. [Python para todos. Raul González Duque](https://launchpadlibrarian.net/18980633/Python%20para%20todos.pdf)
+16. [Tutorials Poing Python](http://www.tutorialspoint.com/python/python_tutorial.pdf)
+17. [SymPy](http://docs.sympy.org/latest/index.html)
+18. [Python para principiantes. Eugenia Bahit](http://www.iaa.es/python/curso-python-para-principiantes.pdf)
+19. [Immersión en Python 3. Escrit per Mike Pilgrim, traduït per José Manuel González Aguilera](http://argentinaenpython.com.ar/quiero-aprender-python/inmersion-en-python-3.0.11.pdf)
+20. [Aprenda a pensar como un programador con Python](http://argentinaenpython.com.ar/quiero-aprender-python/aprenda-a-pensar-como-un-programador-con-python.pdf)
 
 ## Entorns
 
