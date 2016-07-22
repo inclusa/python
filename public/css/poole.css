@@ -432,9 +432,31 @@ a.pagination-item:hover {
 /* Items afegits */
 
 /* Utilitzat en slidebar */
-.meta { margin: 0 auto; font-size: 11px; font-family: 'Source Sans Pro' ; color: #777; letter-spacing: .1em; font-weight: 300; text-transform: uppercase;}
-img {width: 100%;}
-.about-foot {max-width: 300px; display: inline-block; text-align: right;
-padding-right: 15px;}
-.sideways {-webkit-transform: rotate(-90deg); -moz-transform: rotate(-90deg); position: absolute; left: -90px;
-top: 330px;}
+
+ .faq {
+                        counter-reset: my-badass-counter;
+                }
+                .faq dt {
+                        position: relative;
+                        font: bold 16px lato;
+                        padding: 4px 0 10px 0;
+                        background: Lavender;
+                        font: bold 30px lato;
+                }
+                .faq dt:before {
+                        content: counter(my-badass-counter);
+                        counter-increment: my-badass-counter;
+                        position: absolute;
+                        left: 0;
+                        top: 0;
+                        font: bold 50px lato;
+                        color: LightSlateGrey;
+                }
+                .faq dd {
+                        margin: 0 0 50px 0;
+                        font:  18px lato;
+                }
+                .faq dt, .faq dd {
+                        padding-left: 50px;
+                }
+
