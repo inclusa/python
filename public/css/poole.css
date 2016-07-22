@@ -435,4 +435,5 @@ a.pagination-item:hover {
 img {width: 100%;}
 .about-foot {max-width: 300px; display: inline-block; text-align: right;
 padding-right: 15px;}
-
+.sideways {-webkit-transform: rotate(-90deg); -moz-transform: rotate(-90deg); position: absolute; left: -90px;
+top: 330px;}
