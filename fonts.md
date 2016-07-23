@@ -46,8 +46,10 @@ title: Fonts
 ## Conferències
 
 1. [Conferences & Workshops](https://www.python.org/community/workshops/)
+2. [Ruby per a programadors Python](https://www.youtube.com/watch?v=NdvTsh_eYe8)
+3. [Introducció a Django](https://www.youtube.com/watch?v=1nhi6dcrbOY)
 
-## Videos
+## Videostutorials
 
 1. [Curso de Python 3.X](https://www.youtube.com/playlist?list=PLEtcGQaT56chpYflEjBWRodHJNJN8EKpO) Jesús Conde.
 2. [PYCONF US 2013. A hands on introduction to Python for beginning programmers.](http://pyvideo.org/video/1850/a-hands-on-introduction-to-python-for-beginning-p) Jesica Mckellar.
