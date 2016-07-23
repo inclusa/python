@@ -48,6 +48,7 @@ title: Fonts
 1. [Conferences & Workshops](https://www.python.org/community/workshops/)
 2. [Ruby per a programadors Python](https://www.youtube.com/watch?v=NdvTsh_eYe8)
 3. [Introducció a Django](https://www.youtube.com/watch?v=1nhi6dcrbOY)
+4. [Introducció a Djanto](https://www.youtube.com/watch?v=pktSZLtMQNA)
 
 ## Videostutorials
 
