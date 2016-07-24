@@ -8,10 +8,9 @@ Blog on presentem la història d'aprenentatge del llenguatge de programació Pyt
 
 # [https://inclusa.github.io/python/](https://inclusa.github.io/python/)
 
-- [X] :snake: Aprenent Python
+:snake: Aprenent Python  :computer: Desenvolupem  :floppy_disk: Guardem  :coffee: Reflexionem
 
-- [X] :computer: Desenvolupem
+### Llistat de tasques pendents
 
-- [X] :floppy_disk: Guardem
-
-- [X] :coffee: Reflexionem
+- [X] Arribar a 25 artícles
+- [ ] Deixar clar el concepte de classe
