@@ -2,7 +2,7 @@ Blog on presentem la història d'aprenentatge del llenguatge de programació Pyt
 
 [![Markdown](https://img.shields.io/badge/markdon-build-brightgreen.svg)](http://joedicastro.com/pages/markdown.html)
 [![Jekyll](https://img.shields.io/badge/jekyll-build-brightgreen.svg)](http://jekyllrb.com/)
-[[Coverage](https://img.shields.io/badge/coverage-40%25-blue.svg)]
+[![Coverage](https://img.shields.io/badge/coverage-40%25-blue.svg)]
 [![License](https://img.shields.io/badge/license-MIT-red.svg)](https://opensource.org/licenses/MIT)
 
 
