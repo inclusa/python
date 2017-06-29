@@ -34,6 +34,7 @@ title: Fonts
 19. [Immersión en Python 3. Escrit per Mike Pilgrim, traduït per José Manuel González Aguilera](http://argentinaenpython.com.ar/quiero-aprender-python/inmersion-en-python-3.0.11.pdf)
 20. [Aprenda a pensar como un programador con Python](http://argentinaenpython.com.ar/quiero-aprender-python/aprenda-a-pensar-como-un-programador-con-python.pdf)
 21. [Tutorial de Python. Comunidad de Python Argentina.](http://docs.python.org.ar/tutorial/3/index.html)
+22. [Pyton para principiantes](https://librosweb.es/libro/python/)
 
 ## Entorns
 
