@@ -75,6 +75,10 @@ title: Fonts
 1. [Pytonizame](http://pythoniza.me/)
 2. [Pybonacci](http://pybonacci.org/)
 
+## Vídeos
+
+1. [Python programming. Learn Pyton in One Video](https://youtu.be/N4mEzFDjqtA)
+
 ## Altres manuals d'altres temes
 
 1. [Informática Básica.](http://repositori.uji.es/xmlui/bitstream/handle/10234/24304/s15.pdf?sequence=3) Amengual Argudo, Juan Carlos ; Tomás López, Vicente Ramón.
