@@ -78,6 +78,7 @@ title: Fonts
 ## Vídeos
 
 1. [Python programming. Learn Pyton in One Video](https://youtu.be/N4mEzFDjqtA)
+2. [Python programming tutorials (Computer Science)](https://www.youtube.com/playlist?list=PLi01XoE8jYohWFPpC17Z-wWhPOSuh8Er-)
 
 ## Altres manuals d'altres temes
 
