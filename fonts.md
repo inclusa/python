@@ -35,6 +35,19 @@ title: Fonts
 20. [Aprenda a pensar como un programador con Python](http://argentinaenpython.com.ar/quiero-aprender-python/aprenda-a-pensar-como-un-programador-con-python.pdf)
 21. [Tutorial de Python. Comunidad de Python Argentina.](http://docs.python.org.ar/tutorial/3/index.html)
 22. [Pyton para principiantes](https://librosweb.es/libro/python/)
+23. [Dive Into Python 3 - Mark Pilgrim](https://www.diveinto.org/python3/index.html)
+24. [Introducción a Python para estudiantes de ESO](http://www.educoteca.com/curso_python.html)
+25. [Python 3 - Tutorial](https://www.python-course.eu/python3_course.php)
+26. [Python Lessons](https://www.py4e.com/lessons)
+27. [Python for Everybody](https://books.trinket.io/pfe/)
+
+
+## Exercicis
+
+1. [Checkio.org](https://py.checkio.org/)
+2. [Exercism.io](https://exercism.io/)
+3. [CodeChalleng.es](https://codechalleng.es/)
+
 
 ## Entorns
 
@@ -44,6 +57,8 @@ title: Fonts
 4. [LearnPython](http://www.learnpython.org/es/)
 5. [Tutorial Python](http://www.tutorialpython.com/)
 6. [Bazaar Pyhton para principiantes. Eugenia Bahit](https://code.launchpad.net/~eugeniabahit/python-mdw/trunk)
+7. [Tutorial Python 3.6.3 en español - html](http://docs.python.org.ar/tutorial/3/index.html)
+8. [Tutorial Python 3.6.3 en español - pdf](http://docs.python.org.ar/tutorial/pdfs/TutorialPython3.pdf)
 
 ## Conferències
 
@@ -79,6 +94,7 @@ title: Fonts
 
 1. [Python programming. Learn Pyton in One Video](https://youtu.be/N4mEzFDjqtA)
 2. [Python programming tutorials (Computer Science)](https://www.youtube.com/playlist?list=PLi01XoE8jYohWFPpC17Z-wWhPOSuh8Er-)
+3. [Curso de Python des de 0](https://www.youtube.com/playlist?list=PLU8oAlHdN5BlvPxziopYZRd55pdqFwkeS)
 
 ## Altres manuals d'altres temes
 

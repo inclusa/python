@@ -1,6 +1,6 @@
 ---
 layout: post # page | post
-title: Python en un video
+title: 46 Python en un video
 date: 2017-07-19 
 description: 46 Python, nivell inicial en un vídeo   # Argument
 keywords: python video  # Paraules clau
