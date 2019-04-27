@@ -40,7 +40,7 @@ title: Fonts
 25. [Python 3 - Tutorial](https://www.python-course.eu/python3_course.php)
 26. [Python Lessons](https://www.py4e.com/lessons)
 27. [Python for Everybody](https://books.trinket.io/pfe/)
-
+28. [Pythones](https://pythones.net/)
 
 ## Exercicis
 
