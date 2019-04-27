@@ -41,6 +41,7 @@ title: Fonts
 26. [Python Lessons](https://www.py4e.com/lessons)
 27. [Python for Everybody](https://books.trinket.io/pfe/)
 28. [Pythones](https://pythones.net/)
+29. [RealPython](https://realpython.com/learning-paths/)
 
 ## Exercicis
 
