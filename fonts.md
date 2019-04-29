@@ -42,12 +42,17 @@ title: Fonts
 27. [Python for Everybody](https://books.trinket.io/pfe/)
 28. [Pythones](https://pythones.net/)
 29. [RealPython](https://realpython.com/learning-paths/)
+30. [Automate The Boring Stuff](https://automatetheboringstuff.com/)
+
 
 ## Exercicis
 
 1. [Checkio.org](https://py.checkio.org/)
 2. [Exercism.io](https://exercism.io/)
 3. [CodeChalleng.es](https://codechalleng.es/)
+4. [PNY](https://pynative.com/python-random-number-generation-exercise-questions-and-challenge/)
+5. [De Code School](http://www.decodeschool.com/Python-Programming/Examples)
+6. [PyNotes](https://github.com/srigalibe/pynotes)
 
 
 ## Entorns
